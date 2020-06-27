@@ -30,4 +30,5 @@ async def on_ready():
 #     client.unload_extension(f"cogs.{extension}")
 
 
-client.run("NzI0MDYyMTA0NTM3MTM3MTYy.Xu665Q.kLOR5yIsc_QtSla-oO9gR3OoIZE")
+# TOKEN NEEDED
+client.run("")
