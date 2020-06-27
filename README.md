@@ -1,3 +1,3 @@
 # DiscordBot
-Discord Bot for personal use using discord.py and pyNaCl
+Discord Bot for personal use using discord.py and pyNaCl\n
 https://github.com/Rapptz/discord.py
